@@ -13,7 +13,7 @@ This assignment involves creating a simple shell program in C. The shell allows 
 
 ### Prerequisites
 - Ensure you have GCC installed on your system for compiling C programs.
-- A Unix-like terminal (Linux or macOS) or Git Bash for Windows.
+- A Unix-like terminal Git Bash for Windows.
 
 ### Clone the Repository
 To clone the repository, run the following command in your terminal:
